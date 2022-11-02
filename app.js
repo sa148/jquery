@@ -1,1 +1,3 @@
-git@github.com:sa148/jquery.git
+$(function(){
+  $('.box1').hide();
+});
