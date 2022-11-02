@@ -1,0 +1,1 @@
+git@github.com:sa148/jquery.git
